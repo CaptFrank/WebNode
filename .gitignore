@@ -3,6 +3,9 @@
 *.lo
 *.o
 *.obj
+*.project
+*.cproject
+*.autotools
 
 # Precompiled Headers
 *.gch
